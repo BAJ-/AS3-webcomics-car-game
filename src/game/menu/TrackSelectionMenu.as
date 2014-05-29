@@ -385,5 +385,4 @@ package game.menu {
 			}
 		}
 	}
-
 }

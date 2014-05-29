@@ -1,5 +1,5 @@
 /**
- * @author kermit
+ * @author Bjørn Allan Johansen
  */
 package utils {
 	

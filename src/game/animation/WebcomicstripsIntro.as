@@ -243,7 +243,5 @@ package game.animation {
 			this._stageRef.removeChild(this._dotSVG);
 			this._stageRef.removeChild(this._presentsSVG);
 		}
-		
 	}
-
 }

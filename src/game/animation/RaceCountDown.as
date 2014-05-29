@@ -1,5 +1,5 @@
 /**
- * @author kermit
+ * @author Bjørn Allan Johansen
  */
 package game.animation {
 	
@@ -173,6 +173,5 @@ package game.animation {
 				}
 			}
 		}
-		
 	}
 }

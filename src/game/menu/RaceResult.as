@@ -1,5 +1,5 @@
 /**
- * @author kermit
+ * @author Bjørn Allan Johansen
  */
 package game.menu {
 	
@@ -251,5 +251,4 @@ package game.menu {
 			this._bestLap = null;
 		}
 	}
-
 }

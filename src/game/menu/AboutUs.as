@@ -1,5 +1,5 @@
 /**
- * @author kermit
+ * @author Bjørn Allan Johansen
  */
 package game.menu {
 	
@@ -139,5 +139,4 @@ package game.menu {
 			DotClass = null;
 		}
 	}
-
 }
