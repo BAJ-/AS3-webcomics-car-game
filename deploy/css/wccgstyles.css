@@ -1,0 +1,14 @@
+body,html {
+    height:100%;
+}
+#gamewrapper {
+    position:relative;
+    display:block;
+    margin:auto auto;
+    width:95%;
+    height:95%;
+}
+#comiccargame {
+    width:100%;
+    height:100%;
+}

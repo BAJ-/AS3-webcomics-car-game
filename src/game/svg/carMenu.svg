@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="carMenu.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="308.72312"
+     inkscape:cy="249.43413"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="679"
+     inkscape:window-height="718"
+     inkscape:window-x="599"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="trackOutline"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#8cb767;fill-opacity:1;stroke:none"
+       d="M 7.0710678,9.0163752 C 157.81748,5.5495663 308.60726,4.4741789 459.38997,5.2348864 c 56.89756,0.081985 113.79512,0.1639699 170.69268,0.2459549 11.11157,2.5048896 3.66009,16.7086177 5.80838,24.8623597 -6.3e-4,148.457259 0.49638,296.914039 0.71611,445.371089 -18.47361,3.30519 -37.86801,0.47468 -56.69902,1.39831 C 392.43875,477.00364 204.96937,476.89467 17.5,476.78571 4.9971686,475.81317 4.0020213,466.94939 5.5112196,456.36828 5.2812893,308.29314 5.0513589,160.218 4.8214286,12.142856 5.5713083,11.100696 6.3211881,10.058535 7.0710678,9.0163752 z"
+       id="path3961"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 626.21318,478.47573 c -207.69111,0.5449 -415.39804,0.6685 -622.9682046,-0.7656 -2.2338,-22.266 0.59438,-47.0865 -0.40137,-70.26564 0.94884,-132.32587 -0.90036,-264.51858 0.452,-396.395214 C 13.407655,-1.3339537 44.884015,10.377716 61.99807,5.2651063 c 188.67614,-2.3951901 377.71815,-2.5367201 566.41036,-1.6116 22.33497,3.69789 2.39882,43.7359087 9.49951,61.0191887 0.0993,137.066535 0.98128,274.057765 0.59379,411.122135 -2.62576,4.3714 -8.2464,1.9724 -12.28855,2.6809 z m 6.7779,-3.5783 c 5.35835,-19.6803 0.76162,-42.09994 2.4655,-62.72621 0.0966,-134.57392 -0.0629,-269.19121 -1.14266,-403.7364637 -23.39986,-4.57111 -49.89843,-1.12162 -74.51695,-2.33204 -184.03589,0.0725 -368.28219,-1.24033 -552.1750146,3.88547 -2.34962,152.0624737 -0.53319,304.2189637 -0.72235,456.3328437 9.7572296,19.0014 51.4026746,2.654 72.3773346,8.6046 184.37879,1.6167 368.77457,2.0993 553.15779,0.5111 l 0.55624,-0.5393 z"
+       id="path3913"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="lapResults"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 69.7525,214.99979 c -8.470434,-6.75641 -14.060112,-13.55119 -11.579232,-20.37037 0,-27.78066 0,-55.56131 0,-83.34197 19.274233,-3.94769 68.168682,-1.67757 101.552612,-2.56989 121.52462,-0.57736 242.9903,-1.45372 364.19688,-2.44921 49.93483,0.61994 69.71434,5.94154 60.16991,10.72231 -1.06347,33.90017 -0.31404,67.80124 -3.1998,101.70058 -145.56453,-0.26082 -291.33394,-0.42365 -436.80069,-0.2019 -26.03783,-0.73872 -49.497697,-2.3681 -74.33968,-3.48955 z"
+       id="path4671"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 520.51634,221.13368 c -140.12613,-2.45749 -268.23769,0.60727 -407.72082,-2.77441 -41.213314,0.53742 -65.739398,-2.74063 -54.441892,-6.88187 -16.153608,-16.68548 0.617876,-10.39092 -0.795742,-27.13064 -0.166367,-16.53343 2.676777,-52.15794 -2.675559,-74.25674 10.402731,-4.63419 57.537143,-3.3373 93.890423,-2.67826 53.91234,1.04442 107.57161,-0.91535 161.64348,-1.09914 73.99471,-0.47639 149.06064,-1.65412 222.86307,-0.54016 51.39298,0.75662 55.09084,6.7735 60.26703,11.09739 -9.43155,16.6862 2.6977,22.38136 -3.62225,39.10181 -5.07221,9.59124 -8.91207,31.93875 -1.99489,41.514 -0.67665,6.2805 -13.4169,12.60413 -2.67685,18.81287 2.92113,3.80971 -33.13562,5.88444 -64.736,4.83515 z m 49.32786,-4.18464 c 11.94263,-34.05103 13.13497,-68.13518 8.95524,-102.20388 15.95511,-5.35646 -46.24361,-7.65652 -85.93304,-7.22408 -58.12674,0.2254 -116.65976,0.43551 -174.09223,1.61299 -81.73316,1.0018 -164.07263,1.34765 -246.31287,1.32602 -13.984014,16.36958 -4.796306,32.82612 -6.79933,49.23433 1.839059,17.19216 1.280062,34.42272 4.311229,51.5911 15.137575,5.87536 86.634621,7.97725 134.401221,5.32852 52.98974,-1.59763 106.80923,0.40607 159.40589,1.16069 55.61831,-1.36014 113.31743,-1.95542 169.64068,-0.7145 12.09611,0.13659 24.48585,0.18399 36.42321,-0.11119 z"
+       id="path3913-1-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="82.751282"
+       y="70.888214"
+       id="text3041"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3043"
+         x="82.751282"
+         y="70.888214">Webcomicstrips Racing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="33.578697"
+       y="256.75629"
+       id="text3045"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3047"
+         x="33.578697"
+         y="256.75629">Choose a car from the</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="276.75629"
+         id="tspan3055">menu by clicking on it.</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="296.75629"
+         id="tspan3057">The aime of the game,</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="316.75629"
+         id="tspan3059">is to drive around the</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="336.75629"
+         id="tspan3061">track as fast as you can.</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="356.75629"
+         id="tspan3063">Good luck, I know you</tspan><tspan
+         sodipodi:role="line"
+         x="33.578697"
+         y="376.75629"
+         id="tspan3065">can do it!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="391.50565"
+       y="256.75629"
+       id="text3045-8"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="221.22341"
+       inkscape:transform-center-y="-35.355339"><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="256.75629"
+         id="tspan3126">In this game, you can</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="276.75629"
+         id="tspan3130">control the car using</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="296.75629"
+         id="tspan3132">the arrow-keys.</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="316.75629"
+         id="tspan3134">To complete a round</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="336.75629"
+         id="tspan3136">on the track, you have</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="356.75629"
+         id="tspan3138">to pass all checkpoints</tspan><tspan
+         sodipodi:role="line"
+         x="391.50565"
+         y="376.75629"
+         id="tspan3140">on the way.</tspan></text>
+  </g>
+</svg>
